@@ -1,0 +1,26 @@
+# Blender MTL File: 'birch_tree.blend'
+# Material Count: 2
+
+newmtl Tree.Birch.Bark.Mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.367059 0.367059 0.367059
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ./model/tree_bark_65102.jpg
+map_Bump ./model/tree_bark_65102.jpg
+map_d ./model/tree_bark_65102.jpg
+
+newmtl Tree.Birch.Leaf.Summer.Mat
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.367059 0.367059 0.367059
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ./model/tree_birch_leaf.png
+map_Bump ./model/tree_birch_leaf.png
+map_d ./model/tree_birch_leaf.png
