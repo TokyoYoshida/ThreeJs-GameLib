@@ -8,7 +8,7 @@ To build, run the following command.
 ```
 npm install
 
-npm/webpack --progress --colors --watch
+`npm bin`/webpack --progress --colors --watch
 ```
 
 ## Execution exsample
